@@ -1,0 +1,6 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+#number:
+#  path: "/luky/number"
+#  controller: App\Controller\DefaultController::number
